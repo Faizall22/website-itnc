@@ -1,0 +1,15 @@
+body{
+    background-color: dimgrey;
+}
+
+h1{
+    color: cyan;
+    background-color: darkgrey;
+    font-size: xx-large;
+    font-family:'Times New Roman';
+
+}
+
+p{
+    color: aqua;
+}
